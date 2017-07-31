@@ -1,0 +1,15 @@
+R1
+I1.1	prepare	buns	add	yeast	salt	malt	mixing	bowl	stir	combine	add	milk	water	sugar	butter	half	egg	combine	rubber	spatula	knead	approx	min	hands	springs	push	finger
+I1.2	cover	dough	kitchen	towel	let	rise	heat	let	rise	towel	program	“	yeast	”	min
+I1.3	knead	dough	briefly	portions	transfer	baking	sheet	cover	towel	let	rise	min	place	let	rise	oven	heat	towel	program	“	yeast	dough
+I1.4	roll	pieces	balls	transfer	sheet	cover	kitchen	towel	let	rise	approx	min	place
+I1.5	combine	remaining	egg	remaining	milk	brush	buns	mixture	sprinkle	sesame	bake	convection	function	approx	min	brown
+I1.6	patties	season	ground	beef	salt	pepper
+I1.7	form	patties	cook	frying	pan	greased	oil	heat	approx	min.	browned	side	cooked
+I1.8	rip	lettuce	pieces	cut	tomato	slices	halve	burger	buns	ketchup	mustard	half	place	patty	tomato	homemade	fried	onions	top	cover	half	bun	enjoy
+R2
+I2.1	wash	slice	tomato	cucumber
+I2.2	add	ground	beef	dijon	mustard	ketchup	mixing	bowl	season	salt	pepper	mix	combined	divide	half	form	patties	hands
+I2.3	heat	oil	pan	approx	min	burger	patties	sides	heat	approx	min.	cooked	desired	doneness
+I2.4	help	cake	ring	cut	circles	size	burger	patties	slice	bread	be	used	buns	heat	oil	frying	pan	heat	toast	bread	sides	approx	min.	crisp
+I2.5	rye	bread	slices	mayonnaise	burger	patties	slices	tomato	cucumber	enjoy
