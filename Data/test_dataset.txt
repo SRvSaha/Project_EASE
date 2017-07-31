@@ -1,0 +1,72 @@
+R1	marbled-coffee-cake	6
+I1.1	Preheat oven to 180°C/350°F. Separate egg yolks from egg whites. In a stand mixer bowl, beat together sugar and egg whites, for approx. 3 – 5 min., until stiff peaks form.
+I1.2	Beat together butter, egg yolks, and confectioner’s sugar for approx. 3 – 5 min.
+I1.3	Sift in flour and mix well to combine. In a large bowl, fold egg white mixture into butter mixture. Next, evenly divide batter into two halves, add cocoa powder to one bowl, and mix well to combine.
+I1.4	Grease and flour bundt pan. Spoon light and dark doughs into pan in alternating layers. Bake in preheated oven at 180°C/350°F for approx. 50 – 60 min. Remove from oven and let cool in the pan for approx. 15 – 20 min. Then turn out onto a cooling rack.
+I1.5	Once the cake has cooled melt butter and chocolate glaze in a small saucepan over lowest heat for approx. 8 – 10 min. Stir until everything has melted.
+I1.6	Spoon chocolate glaze evenly over the top and leave to set. Enjoy!
+R2	sour-cherry-pie	6
+I2.1	To make the pie crust, mix together flour, some of the sugar, and some of the salt. Add butter and use your fingers or a food processor to combine, just until large clumps form. Make a well in the center of the mixture and pour in the water a little at a time, using your fingers to lightly mix. Continue until all the water has absorbed and a crumbly dough has formed. If dough seems dry, add more water, a tablespoon at a time.
+I2.2	Scrape dough onto a lightly floured work surface and press the dough into a compact disc, then halve and form each half into a disc. Wrap in plastic wrap and refrigerate for an hour.
+I2.3	For the filling, combine remaining sugar with lemon zest in a large bowl. Add cornstarch and salt and whisk until combined, then add cherries and toss to coat. If using frozen cherries, be sure to drain off any excess juice after thawing and before combining with other ingredients for filling.
+I2.4	Preheat oven to 190°C/375°F and grease a pie dish (9-inch/23-cm.) Take dough out of refrigerator and let warm up for a few minutes. On a lightly floured work surface, roll one disc into a 0.25-in./0.5-cm thick round. Transfer the round to the pie dish, letting the excess hang over the edge, and distribute cherry filling evenly on top.
+I2.5	Roll second dough disk into a round of same thickness and cut into 1-in./2.5-cm wide strips. Use the strips to form a lattice pattern over the cherry filling.
+I2.6	Trim the bottom and top dough, leaving 0.5-in./1.33-cm of dough hanging over the sides. Lift the sides up and fold them under the dough edge to form a thick crust, then crimp the sides or simply press to seal the dough together. Beat the egg and brush it on top of the lattice dough. Sprinkle generously with demerara sugar. Bake pie at 190°C/375°F for approx. 1 hour, or until the crust is golden brown and filling is bubbling. Let cool completely before serving. Enjoy!
+R3	glazed-coconut-lemon-cupcakes	4
+I3.1	Weigh out all ingredients. Preheat the oven to 160°C(fan)/350°F. Grease the muffin tin and dust with flour, or use muffin tin liners.
+I3.2	Sift flour and baking powder into a large bowl. Add part of the lemon zest and coconut flakes, sugar, butter, eggs and milk, and mix well using a wooden spoon until batter is smooth.
+I3.3	Fill and level the muffin tin or muffin tin liners. Bake for approx. 35 - 40 min. at 160°C(fan)/350°F. The cupcakes are done once golden. Remove them from the oven, set aside to cool for 5 min., and then transfer to a cooling rack.
+I3.4	For the glaze, mix remaining coconut flakes with the confectioner’s sugar. Add part of the lemon zest, and enough lemon juice for the glaze to be thick, yet still spreadable. Using a flat knife, top the cupcakes with the glaze.
+R4	marbled-coffee-cake	6
+I4.1	Preheat oven to 180°C/350°F. Separate egg yolks from egg whites. In a stand mixer bowl, beat together sugar and egg whites, for approx. 3 – 5 min., until stiff peaks form.
+I4.2	Beat together butter, egg yolks, and confectioner’s sugar for approx. 3 – 5 min.
+I4.3	Sift in flour and mix well to combine. In a large bowl, fold egg white mixture into butter mixture. Next, evenly divide batter into two halves, add cocoa powder to one bowl, and mix well to combine.
+I4.4	Grease and flour bundt pan. Spoon light and dark doughs into pan in alternating layers. Bake in preheated oven at 180°C/350°F for approx. 50 – 60 min. Remove from oven and let cool in the pan for approx. 15 – 20 min. Then turn out onto a cooling rack.
+I4.5	Once the cake has cooled melt butter and chocolate glaze in a small saucepan over lowest heat for approx. 8 – 10 min. Stir until everything has melted.
+I4.6	Spoon chocolate glaze evenly over the top and leave to set. Enjoy!
+R5	sour-cherry-pie	6
+I5.1	To make the pie crust, mix together flour, some of the sugar, and some of the salt. Add butter and use your fingers or a food processor to combine, just until large clumps form. Make a well in the center of the mixture and pour in the water a little at a time, using your fingers to lightly mix. Continue until all the water has absorbed and a crumbly dough has formed. If dough seems dry, add more water, a tablespoon at a time.
+I5.2	Scrape dough onto a lightly floured work surface and press the dough into a compact disc, then halve and form each half into a disc. Wrap in plastic wrap and refrigerate for an hour.
+I5.3	For the filling, combine remaining sugar with lemon zest in a large bowl. Add cornstarch and salt and whisk until combined, then add cherries and toss to coat. If using frozen cherries, be sure to drain off any excess juice after thawing and before combining with other ingredients for filling.
+I5.4	Preheat oven to 190°C/375°F and grease a pie dish (9-inch/23-cm.) Take dough out of refrigerator and let warm up for a few minutes. On a lightly floured work surface, roll one disc into a 0.25-in./0.5-cm thick round. Transfer the round to the pie dish, letting the excess hang over the edge, and distribute cherry filling evenly on top.
+I5.5	Roll second dough disk into a round of same thickness and cut into 1-in./2.5-cm wide strips. Use the strips to form a lattice pattern over the cherry filling.
+I5.6	Trim the bottom and top dough, leaving 0.5-in./1.33-cm of dough hanging over the sides. Lift the sides up and fold them under the dough edge to form a thick crust, then crimp the sides or simply press to seal the dough together. Beat the egg and brush it on top of the lattice dough. Sprinkle generously with demerara sugar. Bake pie at 190°C/375°F for approx. 1 hour, or until the crust is golden brown and filling is bubbling. Let cool completely before serving. Enjoy!
+R6	glazed-coconut-lemon-cupcakes	4
+I6.1	Weigh out all ingredients. Preheat the oven to 160°C(fan)/350°F. Grease the muffin tin and dust with flour, or use muffin tin liners.
+I6.2	Sift flour and baking powder into a large bowl. Add part of the lemon zest and coconut flakes, sugar, butter, eggs and milk, and mix well using a wooden spoon until batter is smooth.
+I6.3	Fill and level the muffin tin or muffin tin liners. Bake for approx. 35 - 40 min. at 160°C(fan)/350°F. The cupcakes are done once golden. Remove them from the oven, set aside to cool for 5 min., and then transfer to a cooling rack.
+I6.4	For the glaze, mix remaining coconut flakes with the confectioner’s sugar. Add part of the lemon zest, and enough lemon juice for the glaze to be thick, yet still spreadable. Using a flat knife, top the cupcakes with the glaze.
+R7	irish-coffee-macarons	6
+I7.1	Preheat oven to 140°C/285°F. Using a food processor, blend egg whites until stiff peaks form.
+I7.2	Sift confectioner’s sugar and almonds through a fine sieve on top of the stiff egg whites.
+I7.3	Carefully fold sugar and almond mixture into egg whites.
+I7.4	Fill a piping bag with macaron mixture. Pipe onto a baking sheet lined with a macaron baking mat. Tap hard onto kitchen counter to release any air bubbles. Let stand at room temperature for approx. 30 – 40 min. Then, bake in preheated oven at 140°C/285°F for approx. 12 – 15 min.
+I7.5	Cut butter into pieces. Finely chop chocolate and transfer to a large bowl. Then, heat up Baileys in a small saucepan over medium heat for approx. 1 – 2 min. Add instant espresso and mix until dissolved. Pour warm Baileys into bowl to melt chocolate.  Once chocolate is melted, add butter, piece by piece, to bowl and stir thoroughly until well combined. Fill cream into piping bag.
+I7.6	Pipe coffee buttercream onto the bottom half of a macaron. Place another half on top and lightly press. Repeat until macarons are assembled. Enjoy with a cup of coffee!
+R8	apricot-clafoutis	4
+I8.1	Preheat oven to 200°C/400°F, and grease the tart pan. Melt butter in a small pot over low heat, and set aside to cool. Wash apricots and dry, remove pit with a sharp knife, and cut in halves.
+I8.2	In a large mixing bowl, beat the eggs, then mix in sugar and salt and whisk until fluffy. Add milk, flour, and melted butter and mix until combined.
+I8.3	Pour the batter into the greased pan and spread the apricot halves evenly on top, with the cut side-up. Sprinkle with vanilla sugar and almonds.
+I8.4	Bake at 200°C/400°F on the lower rack for approx. 45 min., or until golden on top. Let cool, then dust with powdered sugar for serving. Enjoy!
+R9	pastel-de-nata	7
+I9.1	Beat the egg yolks with the sugar until light and creamy.
+I9.2	Mix some of the cream with the cornstarch until combined, then combine with the egg yolks. Slice open the vanilla bean with a sharp knife.
+I9.3	Add the remaining cream, milk, vanilla bean seeds, and orange zest to a small saucepan. Bring to a boil over medium-low heat and then leave it to cool for approx. 5 – 10 min.
+I9.4	Add a small amount of the warm vanilla cream to the egg yolk mixture, whisking constantly, then gradually add the rest. Transfer the mixture back into the saucepan.
+I9.5	Reheat the mixture over low heat, whisking constantly, until it thickens. Transfer to a clean bowl, cover with plastic, and set aside to cool. Preheat oven to 240°C / 460°F. Butter the muffin cups.
+I9.6	Unroll the puff pastry and discard the paper. Roll the puff pastry back into a log, then cut it into 12 even pieces. Place the slices cut side-down and roll into circles large enough to fill the muffin cups. Place one circle in each cup, pressing it down in the middle and up the sides. Refrigerate for approx. 30 min.
+I9.7	Pour the vanilla cream into each muffin cup until just below the rim. Bake on the middle rack of the oven at 240°C /46°F for approx. 12 – 15 min, or until the cakes are golden brown and caramelized. Enjoy!
+R10	red-white-and-blue-trifle	5
+I10.1	Place ladyfingers into a freezer bag. Tightly seal bag and crush roughly with a rolling pin.
+I10.2	In a large bowl, mix together cream cheese, buttermilk, three-quarters of the confectioner’s sugar, and some lemon juice. Stir thoroughly until well-incorporated.
+I10.3	Leave blueberries whole and set aside. Roughly chop mint. Quarter strawberries.
+I10.4	Using a hand blender, blend together one quarter of the strawberries with the remainder of the powdered sugar and the lemon juice until pureed. In a large bowl, add puree to quartered strawberries and mint. Stir well to combine.
+I10.5	Line the bottom of a separate large bowl with some of the ladyfinger pieces. Then, continue to layer the cake as follows: cream cheese mixture, strawberry puree, cream cheese mixture, ladyfinger crumbs, strawberry puree, and cream cheese mixture. Finally, garnish the trifle with an even layer of blueberries. Leave in the refrigerator for 1 h to rest before serving.
+R11	vegan-gingerbread-house	7
+I11.1	Mix ground flaxseed with a part of the water in a small bowl. Set aside for approx. 5 min.
+I11.2	In the meantime, add flour, demerara sugar, spices, baking soda, margarine, and molasses to a standing mixer. Knead until a smooth dough forms.
+I11.3	Wrap dough in plastic wrap, transfer to refrigerator, and let rest for approx. 1 h.
+I11.4	Preheat oven to 180°C/350°F. Flour work surface and roll dough out until approx. 1/2 finger thick. Using stencils (you will find them in the last step), cut out shapes needed for a gingerbread house. Cut Christmas tree shapes and gingerbread men out of remaining dough. Transfer to a lined baking sheet and bake in preheated oven for approx. 10 – 20 min., in batches if necessary. The pieces should be golden brown with a slightly firm surface. Transfer to a cooling rack.
+I11.5	Meanwhile, mix confectioner’s sugar with just enough water to form a thick icing. Once pieces have cooled, decorate with icing using a piping bag. If desired, decorate with sprinkles or other edible decorations. Set aside to dry completely.
+I11.6	Melt sugar and a little water in a small saucepan and cook over medium heat until a dark caramel forms. Carefully dip bottom of house pieces in caramel and stick to a serving plate. Use caramel to stick together other inner edges and to attach Christmas trees and gingerbread men.
+I11.7	For your gingerbread house cut out each template from the dough twice. You can also take the measurements and make your own stencils. Enjoy!

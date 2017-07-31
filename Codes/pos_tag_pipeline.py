@@ -30,11 +30,10 @@ else:
         for line in f.readlines():
             line = line.split("\t")
             if len(line) == 3:
-                output.append('R' + line[0] + '\n')
+                output.append(line[0] + '\n')
             elif len(line) == 2:
                 # TODO Pass the tags needed as parameters
-                output.append(
-                    'I' + line[0] + '\t' + word_pos_tag(line[1]) + '\n')
+                output.append(line[0] + '\t' + word_pos_tag(line[1]) + '\n')
     with open("../Data/extracted_keywords.txt", 'w') as f:
         f.writelines(output)
-        print("Output Successful :)")
+        print("Output Successful in file: Data/extracted_keywords.txt")

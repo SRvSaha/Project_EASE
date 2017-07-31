@@ -1,15 +1,72 @@
 R1
-I1.1	prepare	buns	add	yeast	salt	malt	mixing	bowl	stir	combine	add	milk	water	sugar	butter	half	egg	combine	rubber	spatula	knead	approx	min	hands	springs	push	finger
-I1.2	cover	dough	kitchen	towel	let	rise	heat	let	rise	towel	program	“	yeast	”	min
-I1.3	knead	dough	briefly	portions	transfer	baking	sheet	cover	towel	let	rise	min	place	let	rise	oven	heat	towel	program	“	yeast	dough
-I1.4	roll	pieces	balls	transfer	sheet	cover	kitchen	towel	let	rise	approx	min	place
-I1.5	combine	remaining	egg	remaining	milk	brush	buns	mixture	sprinkle	sesame	bake	convection	function	approx	min	brown
-I1.6	patties	season	ground	beef	salt	pepper
-I1.7	form	patties	cook	frying	pan	greased	oil	heat	approx	min.	browned	side	cooked
-I1.8	rip	lettuce	pieces	cut	tomato	slices	halve	burger	buns	ketchup	mustard	half	place	patty	tomato	homemade	fried	onions	top	cover	half	bun	enjoy
+I1.1	preheat	egg	yolks	egg	whites	stand	mixer	bowl	beat	sugar	egg	whites	approx	min.	peaks	form
+I1.2	beat	butter	egg	yolks	confectioner	’	s	sugar	approx	min
+I1.3	sift	flour	mix	combine	bowl	egg	mixture	butter	mixture	batter	halves	add	powder	bowl	combine
+I1.4	grease	bundt	pan	spoon	light	doughs	pan	alternating	layers	bake	oven	approx	min	remove	let	cool	pan	approx	min	turn	rack
+I1.5	cake	has	cooled	melt	chocolate	glaze	saucepan	heat	approx	min	stir	everything	has	melted
+I1.6	spoon	chocolate	glaze	leave	set	enjoy
 R2
-I2.1	wash	slice	tomato	cucumber
-I2.2	add	ground	beef	dijon	mustard	ketchup	mixing	bowl	season	salt	pepper	mix	combined	divide	half	form	patties	hands
-I2.3	heat	oil	pan	approx	min	burger	patties	sides	heat	approx	min.	cooked	desired	doneness
-I2.4	help	cake	ring	cut	circles	size	burger	patties	slice	bread	be	used	buns	heat	oil	frying	pan	heat	toast	bread	sides	approx	min.	crisp
-I2.5	rye	bread	slices	mayonnaise	burger	patties	slices	tomato	cucumber	enjoy
+I2.1	make	pie	crust	mix	flour	sugar	salt	add	butter	use	fingers	food	processor	combine	clumps	form	make	well	center	mixture	pour	water	time	using	fingers	mix	continue	water	has	absorbed	dough	has	formed	seems	add	water	tablespoon	time
+I2.2	scrape	dough	floured	work	surface	press	dough	disc	halve	form	half	disc	wrap	plastic	wrap	refrigerate	hour
+I2.3	filling	combine	remaining	sugar	zest	bowl	add	cornstarch	salt	whisk	combined	add	cherries	toss	coat	using	cherries	be	drain	juice	thawing	combining	ingredients	filling
+I2.4	preheat	grease	dish	take	refrigerator	let	warm	minutes	floured	work	surface	roll	disc	thick	round	transfer	round	pie	dish	letting	hang	edge	distribute	cherry	filling	top
+I2.5	roll	dough	disk	round	thickness	cut	strips	use	strips	form	lattice	pattern	cherry	filling
+I2.6	trim	dough	leaving	0.5-in./1.33-cm	dough	hanging	sides	lift	sides	fold	dough	edge	form	crust	crimp	sides	press	seal	dough	beat	egg	brush	top	lattice	dough	sprinkle	demerara	sugar	bake	pie	approx	hour	crust	is	brown	filling	is	bubbling	let	serving	enjoy
+R3
+I3.1	weigh	ingredients	preheat	oven	fan	/350°f	grease	muffin	tin	dust	flour	use	tin	liners
+I3.2	sift	flour	baking	powder	bowl	add	part	zest	coconut	flakes	sugar	butter	eggs	milk	using	spoon	batter	is
+I3.3	fill	level	muffin	tin	muffin	tin	liners	bake	approx	min	fan	/350°f	cupcakes	are	done	remove	oven	set	cool	min.	transfer	cooling	rack
+I3.4	glaze	mix	remaining	coconut	flakes	confectioner	’	s	sugar	add	part	lemon	zest	juice	glaze	be	using	knife	top	cupcakes	glaze
+R4
+I4.1	preheat	egg	yolks	egg	whites	stand	mixer	bowl	beat	sugar	egg	whites	approx	min.	peaks	form
+I4.2	beat	butter	egg	yolks	confectioner	’	s	sugar	approx	min
+I4.3	sift	flour	mix	combine	bowl	egg	mixture	butter	mixture	batter	halves	add	powder	bowl	combine
+I4.4	grease	bundt	pan	spoon	light	doughs	pan	alternating	layers	bake	oven	approx	min	remove	let	cool	pan	approx	min	turn	rack
+I4.5	cake	has	cooled	melt	chocolate	glaze	saucepan	heat	approx	min	stir	everything	has	melted
+I4.6	spoon	chocolate	glaze	leave	set	enjoy
+R5
+I5.1	make	pie	crust	mix	flour	sugar	salt	add	butter	use	fingers	food	processor	combine	clumps	form	make	well	center	mixture	pour	water	time	using	fingers	mix	continue	water	has	absorbed	dough	has	formed	seems	add	water	tablespoon	time
+I5.2	scrape	dough	floured	work	surface	press	dough	disc	halve	form	half	disc	wrap	plastic	wrap	refrigerate	hour
+I5.3	filling	combine	remaining	sugar	zest	bowl	add	cornstarch	salt	whisk	combined	add	cherries	toss	coat	using	cherries	be	drain	juice	thawing	combining	ingredients	filling
+I5.4	preheat	grease	dish	take	refrigerator	let	warm	minutes	floured	work	surface	roll	disc	thick	round	transfer	round	pie	dish	letting	hang	edge	distribute	cherry	filling	top
+I5.5	roll	dough	disk	round	thickness	cut	strips	use	strips	form	lattice	pattern	cherry	filling
+I5.6	trim	dough	leaving	0.5-in./1.33-cm	dough	hanging	sides	lift	sides	fold	dough	edge	form	crust	crimp	sides	press	seal	dough	beat	egg	brush	top	lattice	dough	sprinkle	demerara	sugar	bake	pie	approx	hour	crust	is	brown	filling	is	bubbling	let	serving	enjoy
+R6
+I6.1	weigh	ingredients	preheat	oven	fan	/350°f	grease	muffin	tin	dust	flour	use	tin	liners
+I6.2	sift	flour	baking	powder	bowl	add	part	zest	coconut	flakes	sugar	butter	eggs	milk	using	spoon	batter	is
+I6.3	fill	level	muffin	tin	muffin	tin	liners	bake	approx	min	fan	/350°f	cupcakes	are	done	remove	oven	set	cool	min.	transfer	cooling	rack
+I6.4	glaze	mix	remaining	coconut	flakes	confectioner	’	s	sugar	add	part	lemon	zest	juice	glaze	be	using	knife	top	cupcakes	glaze
+R7
+I7.1	preheat	using	food	processor	blend	egg	whites	peaks	form
+I7.2	sift	confectioner	’	s	sugar	almonds	sieve	top	egg	whites
+I7.3	sugar	almond	mixture	egg	whites
+I7.4	fill	piping	bag	macaron	mixture	pipe	sheet	lined	macaron	baking	mat	tap	kitchen	counter	release	air	bubbles	let	stand	room	temperature	approx	min	bake	oven	approx	min
+I7.5	cut	butter	pieces	chocolate	transfer	bowl	heat	baileys	saucepan	medium	heat	approx	min	add	espresso	mix	dissolved	pour	baileys	bowl	melt	chocolate	chocolate	is	melted	add	butter	piece	piece	bowl	stir	combined	fill	cream	piping	bag
+I7.6	pipe	coffee	buttercream	half	macaron	place	half	press	repeat	macarons	are	assembled	enjoy	cup	coffee
+R8
+I8.1	preheat	grease	tart	pan	melt	butter	pot	heat	set	cool	wash	apricots	remove	pit	knife	cut	halves
+I8.2	mixing	bowl	beat	eggs	mix	sugar	salt	whisk	add	milk	flour	melted	butter	mix	combined
+I8.3	pour	batter	pan	spread	apricot	halves	cut	side-up	sprinkle	vanilla	sugar	almonds
+I8.4	bake	rack	approx	min.	top	let	cool	dust	sugar	serving	enjoy
+R9
+I9.1	egg	yolks	sugar
+I9.2	mix	cream	cornstarch	combined	combine	egg	yolks	slice	open	vanilla	bean	knife
+I9.3	remaining	cream	milk	bean	seeds	orange	zest	saucepan	bring	boil	heat	leave	cool	approx	min
+I9.4	add	amount	vanilla	cream	egg	yolk	mixture	whisking	add	rest	transfer	mixture	saucepan
+I9.5	reheat	mixture	heat	whisking	thickens	transfer	bowl	cover	plastic	set	cool	preheat	/	butter	muffin	cups
+I9.6	puff	pastry	discard	paper	roll	puff	pastry	log	cut	pieces	place	slices	cut	roll	circles	fill	muffin	cups	place	circle	cup	pressing	middle	sides	refrigerate	approx	min
+I9.7	pour	vanilla	cream	cup	rim	bake	rack	oven	/46°f	approx	min	cakes	are	brown	caramelized	enjoy
+R10
+I10.1	place	ladyfingers	freezer	bag	bag	crush	rolling	pin
+I10.2	bowl	mix	cream	cheese	buttermilk	three-quarters	confectioner	’	s	sugar	juice	stir
+I10.3	leave	blueberries	set	roughly	chop	mint	quarter	strawberries
+I10.4	using	hand	blender	blend	quarter	strawberries	remainder	sugar	juice	pureed	bowl	add	quartered	strawberries	mint	stir	combine
+I10.5	line	bottom	bowl	ladyfinger	pieces	continue	layer	cake	follows	cream	cheese	mixture	puree	cream	mixture	crumbs	strawberry	cream	mixture	garnish	trifle	layer	blueberries	leave	refrigerator	h	rest	serving
+R11
+I11.1	mix	ground	flaxseed	part	water	bowl	set	approx	min
+I11.2	meantime	add	demerara	sugar	spices	baking	soda	margarine	molasses	standing	mixer	knead	dough	forms
+I11.3	wrap	dough	wrap	transfer	refrigerator	let	rest	approx	h
+I11.4	preheat	work	surface	roll	dough	approx	finger	thick	using	stencils	find	step	cut	shapes	needed	house	cut	christmas	tree	shapes	gingerbread	men	remaining	dough	transfer	baking	sheet	bake	oven	approx	min.	batches	pieces	be	brown	surface	transfer	cooling	rack
+I11.5	mix	confectioner	’	s	sugar	water	form	icing	pieces	have	cooled	decorate	icing	using	piping	bag	desired	decorate	sprinkles	decorations	set	dry
+I11.6	melt	sugar	water	saucepan	cook	medium	heat	caramel	forms	carefully	bottom	house	pieces	caramel	stick	serving	plate	use	caramel	stick	edges	attach	christmas	trees	men
+I11.7	gingerbread	house	cut	template	dough	take	measurements	make	stencils	enjoy

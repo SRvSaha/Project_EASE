@@ -41,12 +41,12 @@ def file_write(output_list):
     elif len(sys.argv) == 2:
         f = open('../Data/ontology_concepts.txt', 'w')
         f.write('\n'.join(output_list))
-        print("Output Successful :)")
+        print("Output Successful in file: Data/ontology_concepts.txt")
 
     elif len(sys.argv) >= 3:
         f = open(sys.argv[2], 'w')
         f.write('\n'.join(output_list))
-        print("Output Successful :)")
+        print("Output Successful in file:", sys.argv[2])
     f.close()
 
 
