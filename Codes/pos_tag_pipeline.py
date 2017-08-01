@@ -16,7 +16,8 @@ def word_pos_tag(input_sentence):
     pos_tags = pos_tag(word_tokenize(input_sentence))
     for token, tag in pos_tags:
         if tag.startswith('N') or tag.startswith('V'):
-            output.append(token.lower())
+            # output.append(token.lower())
+            output.append(token)
     return "\t".join(output)
 
 
@@ -30,7 +31,7 @@ else:
         for line in f.readlines():
             line = line.split("\t")
             if len(line) == 3:
-                output.append(line[0] + '\n')
+                output.append(line[0] + '\t' + line[2])
             elif len(line) == 2:
                 # TODO Pass the tags needed as parameters
                 output.append(line[0] + '\t' + word_pos_tag(line[1]) + '\n')
