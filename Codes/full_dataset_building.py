@@ -64,6 +64,9 @@ print("Depth Crawled:", recursive_crawler(URL))
 ###############################################################
 
 f = open("../Data/full_dataset.txt", 'w')
+steps = 0   # This is to keep track of the corner case where recipes has no
+            # description of how to do, but a one liner. We need to remove it
+            # and match the index accordingly. So this acts as normalizer.
 for first, URL in enumerate(URLS):
     counter = 0
     output = []
@@ -73,12 +76,17 @@ for first, URL in enumerate(URLS):
             if str(item).startswith("<p class=\"text\">"):
                 counter += 1
                 text = ' '.join((item.get_text()).split('\n'))
-                output.append('I' + str(first + 1) + '.' +
+                output.append('I' + str(first - steps + 1) + '.' +
                               str(counter) + '\t' + text + '\n')
-        f.write('R' + str(first + 1) + '\t' +
-                URL[URL.rfind('/') + 1:] + '\t' + str(counter) + '\n')
-        f.writelines(output)
+        if counter > 1:
+            first -= steps
+            f.write('R' + str(first + 1) + '\t' +
+                    URL[URL.rfind('/') + 1:] + '\t' + str(counter) + '\n')
+            f.writelines(output)
+        else:
+            steps += 1
         print(first + 1)
+
 
 f.close()
 print("Operation Successful in file: Data/full_dataset.txt")

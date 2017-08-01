@@ -1,0 +1,34 @@
+R1	creamy-quinoa-porridge	5
+I1.1	Rinse quinoa in a fine sieve under cold water. Combine quinoa with water and a pinch of salt in a medium pot and bring to a boil. Turn down the heat to simmer and cover. Cook for approx. 15 min. or until the seeds have become translucent. In the meantime, toast pumpkin and sesame seeds over medium heat until golden brown. Set aside.
+I1.2	For the toppings, core apple, pit peach, and finely dice dates, apple, and peach. Slice banana. Transfer cooked quinoa to a large bowl. Add cashew cream.
+I1.3	Top quinoa with toasted pumpkin seeds and sesame seeds.
+I1.4	Add finely diced dates, apple, and peach together with the sliced banana and mixed berries.
+I1.5	Mix together and serve in small bowls. If desired, garnish with more fruit. Top with pumpkin seed oil.
+R2	bavarian-apple-fritters	6
+I2.1	In a stand mixer, beat flour, beer, oil, egg yolks and a pinch of salt until smooth. Transfer to refrigerator and allow to rest for approx. 30 min.
+I2.2	Beat egg whites and sugar in a stand mixer until stiff and doubled in volume.
+I2.3	Carefully fold the beaten egg whites into the batter.
+I2.4	Peel and core apples.Then, cut into slices one finger-width thick.
+I2.5	Dredge apple slices in batter and lightly shake off any excess.
+I2.6	In a large frying pan, heat vegetable oil over medium-high heat. Fry apple fritters for approx. 1 – 2 min. per side or until golden brown. Transfer to a paper towel-lined plate and dust with confectioner’s sugar, if desired. Enjoy them while they’re hot!
+R3	marbled-coffee-cake	6
+I3.1	Preheat oven to 180°C/350°F. Separate egg yolks from egg whites. In a stand mixer bowl, beat together sugar and egg whites, for approx. 3 – 5 min., until stiff peaks form.
+I3.2	Beat together butter, egg yolks, and confectioner’s sugar for approx. 3 – 5 min.
+I3.3	Sift in flour and mix well to combine. In a large bowl, fold egg white mixture into butter mixture. Next, evenly divide batter into two halves, add cocoa powder to one bowl, and mix well to combine.
+I3.4	Grease and flour bundt pan. Spoon light and dark doughs into pan in alternating layers. Bake in preheated oven at 180°C/350°F for approx. 50 – 60 min. Remove from oven and let cool in the pan for approx. 15 – 20 min. Then turn out onto a cooling rack.
+I3.5	Once the cake has cooled melt butter and chocolate glaze in a small saucepan over lowest heat for approx. 8 – 10 min. Stir until everything has melted.
+I3.6	Spoon chocolate glaze evenly over the top and leave to set. Enjoy!
+R4	dark-n-stormy	3
+I4.1	Add lime juice to a highball glass. Add rum, then stir.
+I4.2	Add ice, then fill glass with ginger beer and stir gently.
+I4.3	Garnish glass with lime wedge. Enjoy!
+R5	colorful-chiffonade-salad	9
+I5.1	Add water to a small saucepan and bring to a boil. Add glass noodles and cook for approx. 2 - 3 min. Drain and rinse with cold water. Set aside.
+I5.2	Add water to a large saucepan and bring to a boil. Blanch spinach for  approx. 1 – 2 min.
+I5.3	Transfer spinach to an ice bath and allow to cool for approx. 5 – 6 min. Then, remove spinach from water and squeeze out any extra liquid. Set aside.
+I5.4	In a small bowl, whisk eggs until blended.
+I5.5	Preheat vegetable oil in a frying pan over medium heat. Then, add eggs to the pan and fry in one layer for approx. 1 – 2 min. from each side. Set aside to cool.
+I5.6	Roughly chop spinach. Finely chop garlic. Cut carrot, cucumber, Chinese cabbage, and fried egg into thin strips.
+I5.7	In a small bowl, mix vinegar, sesame oil, salt, sugar, and chopped garlic.
+I5.8	In a large bowl, combine cucumber, carrots, Chinese cabbage, and glass noodles. Add dressing and mix well.
+I5.9	Add chopped spinach and eggs. Gently stir to combine. Enjoy as a starter or a side dish.
