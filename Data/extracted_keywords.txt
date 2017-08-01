@@ -37,36 +37,28 @@ I6.2	sift	flour	baking	powder	bowl	add	part	zest	coconut	flakes	sugar	butter	egg
 I6.3	fill	level	muffin	tin	muffin	tin	liners	bake	approx	min	fan	/350°f	cupcakes	are	done	remove	oven	set	cool	min.	transfer	cooling	rack
 I6.4	glaze	mix	remaining	coconut	flakes	confectioner	’	s	sugar	add	part	lemon	zest	juice	glaze	be	using	knife	top	cupcakes	glaze
 R7
-I7.1	preheat	using	food	processor	blend	egg	whites	peaks	form
-I7.2	sift	confectioner	’	s	sugar	almonds	sieve	top	egg	whites
-I7.3	sugar	almond	mixture	egg	whites
-I7.4	fill	piping	bag	macaron	mixture	pipe	sheet	lined	macaron	baking	mat	tap	kitchen	counter	release	air	bubbles	let	stand	room	temperature	approx	min	bake	oven	approx	min
-I7.5	cut	butter	pieces	chocolate	transfer	bowl	heat	baileys	saucepan	medium	heat	approx	min	add	espresso	mix	dissolved	pour	baileys	bowl	melt	chocolate	chocolate	is	melted	add	butter	piece	piece	bowl	stir	combined	fill	cream	piping	bag
-I7.6	pipe	coffee	buttercream	half	macaron	place	half	press	repeat	macarons	are	assembled	enjoy	cup	coffee
+I7.1	place	ladyfingers	freezer	bag	bag	crush	rolling	pin
+I7.2	bowl	mix	cream	cheese	buttermilk	three-quarters	confectioner	’	s	sugar	juice	stir
+I7.3	leave	blueberries	set	roughly	chop	mint	quarter	strawberries
+I7.4	using	hand	blender	blend	quarter	strawberries	remainder	sugar	juice	pureed	bowl	add	quartered	strawberries	mint	stir	combine
+I7.5	line	bottom	bowl	ladyfinger	pieces	continue	layer	cake	follows	cream	cheese	mixture	puree	cream	mixture	crumbs	strawberry	cream	mixture	garnish	trifle	layer	blueberries	leave	refrigerator	h	rest	serving
 R8
-I8.1	preheat	grease	tart	pan	melt	butter	pot	heat	set	cool	wash	apricots	remove	pit	knife	cut	halves
-I8.2	mixing	bowl	beat	eggs	mix	sugar	salt	whisk	add	milk	flour	melted	butter	mix	combined
-I8.3	pour	batter	pan	spread	apricot	halves	cut	side-up	sprinkle	vanilla	sugar	almonds
-I8.4	bake	rack	approx	min.	top	let	cool	dust	sugar	serving	enjoy
+I8.1	egg	yolks	sugar
+I8.2	mix	cream	cornstarch	combined	combine	egg	yolks	slice	open	vanilla	bean	knife
+I8.3	remaining	cream	milk	bean	seeds	orange	zest	saucepan	bring	boil	heat	leave	cool	approx	min
+I8.4	add	amount	vanilla	cream	egg	yolk	mixture	whisking	add	rest	transfer	mixture	saucepan
+I8.5	reheat	mixture	heat	whisking	thickens	transfer	bowl	cover	plastic	set	cool	preheat	/	butter	muffin	cups
+I8.6	puff	pastry	discard	paper	roll	puff	pastry	log	cut	pieces	place	slices	cut	roll	circles	fill	muffin	cups	place	circle	cup	pressing	middle	sides	refrigerate	approx	min
+I8.7	pour	vanilla	cream	cup	rim	bake	rack	oven	/46°f	approx	min	cakes	are	brown	caramelized	enjoy
 R9
-I9.1	egg	yolks	sugar
-I9.2	mix	cream	cornstarch	combined	combine	egg	yolks	slice	open	vanilla	bean	knife
-I9.3	remaining	cream	milk	bean	seeds	orange	zest	saucepan	bring	boil	heat	leave	cool	approx	min
-I9.4	add	amount	vanilla	cream	egg	yolk	mixture	whisking	add	rest	transfer	mixture	saucepan
-I9.5	reheat	mixture	heat	whisking	thickens	transfer	bowl	cover	plastic	set	cool	preheat	/	butter	muffin	cups
-I9.6	puff	pastry	discard	paper	roll	puff	pastry	log	cut	pieces	place	slices	cut	roll	circles	fill	muffin	cups	place	circle	cup	pressing	middle	sides	refrigerate	approx	min
-I9.7	pour	vanilla	cream	cup	rim	bake	rack	oven	/46°f	approx	min	cakes	are	brown	caramelized	enjoy
+I9.1	preheat	using	food	processor	blend	egg	whites	peaks	form
+I9.2	sift	confectioner	’	s	sugar	almonds	sieve	top	egg	whites
+I9.3	sugar	almond	mixture	egg	whites
+I9.4	fill	piping	bag	macaron	mixture	pipe	sheet	lined	macaron	baking	mat	tap	kitchen	counter	release	air	bubbles	let	stand	room	temperature	approx	min	bake	oven	approx	min
+I9.5	cut	butter	pieces	chocolate	transfer	bowl	heat	baileys	saucepan	medium	heat	approx	min	add	espresso	mix	dissolved	pour	baileys	bowl	melt	chocolate	chocolate	is	melted	add	butter	piece	piece	bowl	stir	combined	fill	cream	piping	bag
+I9.6	pipe	coffee	buttercream	half	macaron	place	half	press	repeat	macarons	are	assembled	enjoy	cup	coffee
 R10
-I10.1	place	ladyfingers	freezer	bag	bag	crush	rolling	pin
-I10.2	bowl	mix	cream	cheese	buttermilk	three-quarters	confectioner	’	s	sugar	juice	stir
-I10.3	leave	blueberries	set	roughly	chop	mint	quarter	strawberries
-I10.4	using	hand	blender	blend	quarter	strawberries	remainder	sugar	juice	pureed	bowl	add	quartered	strawberries	mint	stir	combine
-I10.5	line	bottom	bowl	ladyfinger	pieces	continue	layer	cake	follows	cream	cheese	mixture	puree	cream	mixture	crumbs	strawberry	cream	mixture	garnish	trifle	layer	blueberries	leave	refrigerator	h	rest	serving
-R11
-I11.1	mix	ground	flaxseed	part	water	bowl	set	approx	min
-I11.2	meantime	add	demerara	sugar	spices	baking	soda	margarine	molasses	standing	mixer	knead	dough	forms
-I11.3	wrap	dough	wrap	transfer	refrigerator	let	rest	approx	h
-I11.4	preheat	work	surface	roll	dough	approx	finger	thick	using	stencils	find	step	cut	shapes	needed	house	cut	christmas	tree	shapes	gingerbread	men	remaining	dough	transfer	baking	sheet	bake	oven	approx	min.	batches	pieces	be	brown	surface	transfer	cooling	rack
-I11.5	mix	confectioner	’	s	sugar	water	form	icing	pieces	have	cooled	decorate	icing	using	piping	bag	desired	decorate	sprinkles	decorations	set	dry
-I11.6	melt	sugar	water	saucepan	cook	medium	heat	caramel	forms	carefully	bottom	house	pieces	caramel	stick	serving	plate	use	caramel	stick	edges	attach	christmas	trees	men
-I11.7	gingerbread	house	cut	template	dough	take	measurements	make	stencils	enjoy
+I10.1	preheat	grease	tart	pan	melt	butter	pot	heat	set	cool	wash	apricots	remove	pit	knife	cut	halves
+I10.2	mixing	bowl	beat	eggs	mix	sugar	salt	whisk	add	milk	flour	melted	butter	mix	combined
+I10.3	pour	batter	pan	spread	apricot	halves	cut	side-up	sprinkle	vanilla	sugar	almonds
+I10.4	bake	rack	approx	min.	top	let	cool	dust	sugar	serving	enjoy

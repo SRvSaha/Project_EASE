@@ -24,7 +24,7 @@ BASE = "http://kitchenstories.io"
 URLS = []
 
 for url in soup.find_all('a'):
-    if url.get('href').startswith('/en/recipes/') and len(URLS) < 11:
+    if url.get('href').startswith('/en/recipes/') and len(URLS) != 10:
         URLS.append(urljoin(BASE, url.get('href')))
 
 f = open("../Data/test_dataset.txt", 'w')
