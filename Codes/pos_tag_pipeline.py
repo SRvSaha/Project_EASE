@@ -17,7 +17,8 @@ def word_pos_tag(input_sentence):
     for token, tag in pos_tags:
         if tag.startswith('N') or tag.startswith('V'):
             # output.append(token.lower())
-            output.append(token)
+            if token not in output:
+            	output.append(token)
     return "\t".join(output)
 
 
