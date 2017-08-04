@@ -1,3 +1,12 @@
+/*
+#
+#   @author      : SRvSaha
+#   Filename     : POSTagging.java
+#   Timestamp    : Thu, Aug  3 2017 12:03:21 PM
+#   Description  : Stanford POS Tagger for Noun, Verb Filtering for Ontology
+#
+
+*/
 import edu.stanford.nlp.tagger.maxent.MaxentTagger;
 import java.io.*;
 import java.util.LinkedHashSet;
@@ -6,7 +15,7 @@ public class POSTagging {
 
 	/**
 	 * @param args
-	 * @throws Exception 
+	 * @throws Exception
 	 */
 	public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
@@ -22,10 +31,10 @@ public class POSTagging {
 			String[] recipes, instructions, tagged_words, tokens;
 			while(line != null)
 			{
-				
+
 				recipes = line.split("\t");
 				if (recipes.length == 3)
-				{	
+				{
 					output = recipes[0]+"\t"+recipes[2]+"\n";
 					bw.write(output);
 					int len = Integer.parseInt(recipes[2]);
