@@ -1,17 +1,5 @@
 {
-    "use": "ActionManner",
-    "combine": "ActionManner",
-    "salt": "ActionManner",
-    "food": "ActionManner",
-    "finger": "ActionManner",
-    "butter": "ActionManner",
-    "crust": "ActionManner",
     "make": "Affordance",
-    "pie": "Add",
-    "flour": "ActionManner",
-    "mix": "ActionManner",
-    "sugar": "ActionManner",
-    "add": "ActionManner",
-    "processor": "ActionManner",
-    "clump": "Bean"
+    "crust": "BakedGoods",
+    "pie": "Recipe"
 }
