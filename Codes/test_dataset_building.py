@@ -17,15 +17,34 @@ from urllib.parse import urljoin
 
 URL = "https://kitchenstories.io/en/recipes/american-apple-pie"
 
-r = requests.get(URL)
-if r.status_code == 200:
-    soup = BeautifulSoup(r.content, 'lxml')
-BASE = "http://kitchenstories.io"
-URLS = []
 
+def get_url(URL):
+    r = requests.get(URL)
+    if r.status_code == 200:
+        return BeautifulSoup(r.content, 'lxml')
+
+BASE = "http://kitchenstories.io"
+URLS = set()
+
+soup = get_url(URL)
 for url in soup.find_all('a'):
-    if url.get('href').startswith('/en/recipes/') and len(URLS) < 10:
-        URLS.append(urljoin(BASE, url.get('href')))
+    if str(url.get('href')).startswith('/en/recipes/'):
+        URLS.add(urljoin(BASE, url.get('href')))
+
+URLS_ = URLS.copy()
+
+flag = False
+while len(URLS) < 10:
+    for url in URLS_:
+        soup = get_url(url)
+        for page in soup.find_all('a'):
+            if page.get('href').startswith('/en/recipes/') and len(URLS) != 10:
+                URLS.add(urljoin(BASE, page.get('href')))
+                if len(URLS) == 10:
+                    flag = True
+                    break
+        if flag:
+            break
 
 f = open("../Data/test_dataset.txt", 'w')
 for first, URL in enumerate(URLS):

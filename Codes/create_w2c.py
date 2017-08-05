@@ -32,13 +32,10 @@ except FileNotFoundError:
 
 def word2concept(word):
     if WORD2CONCEPT.get(word, 0) == 0:  # If the key doesn't exists
-                        # check if you want to add concept or not.
-        print("Concept List: ")
+                        				# check if you want to add concept or not.
+        print("\nConcept List: \n")
         for i, c in enumerate(CONCEPTS):
-            if i % 2 == 0:
-                print(str(i) + '. ' + c, end="\t\t\t")
-            else:
-                print(str(i) + '. ' + c)
+            print(str(i) + '. ' + c)
         print("\nCurrent word is:", word,
               "|| Is Concept Available in the list?\n")
         choice = input(
@@ -49,8 +46,6 @@ def word2concept(word):
         elif choice == '2':
             pass
         else:
-            # break
-
             print("Are you sure you want to exit?\n")
             option = input("1. Yes\n2. No\n\n")
             if option == '1':
@@ -60,7 +55,6 @@ def word2concept(word):
                 sys.exit()
             else:
                 word2concept(word)
-
 
 def main():
     if len(sys.argv) >= 3:
