@@ -32,7 +32,8 @@ except FileNotFoundError:
 
 def word2concept(word):
     if WORD2CONCEPT.get(word, 0) == 0:  # If the key doesn't exists
-                        				# check if you want to add concept or not.
+                                                        # check if you want to
+                                                        # add concept or not.
         print("\nConcept List: \n")
         for i, c in enumerate(CONCEPTS):
             print(str(i) + '. ' + c)
@@ -51,10 +52,11 @@ def word2concept(word):
             if option == '1':
                 with open(filename, 'w') as f:
                     json.dump(WORD2CONCEPT, f,
-                              indent=4, ensure_ascii=False)
+                              indent=4, sort_keys=True, ensure_ascii=False)
                 sys.exit()
             else:
                 word2concept(word)
+
 
 def main():
     if len(sys.argv) >= 3:
@@ -70,7 +72,7 @@ def main():
                         word2concept(word)  # Recursive Function
             with open(filename, 'w') as f:
                 json.dump(WORD2CONCEPT, f,
-                          indent=4, ensure_ascii=False)
+                          indent=4, sort_keys=True, ensure_ascii=False)
     else:
         print("Argument(s) Missing!\nRun as: python3 create_w2c.py <RECIPE_INSTRUC\
     TIONS_KEYWORD_FILE> <ONTOLOGY_CONCEPTS_FILE>")
