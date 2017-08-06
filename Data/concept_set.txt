@@ -1,0 +1,67 @@
+R1
+C1.1	Preheating	OfenInstrument	Peel	pieces	FruitVegetable	Press	MixedLiquid	MeasurableAffordance
+C1.2	Cutting	GrainProduct	MeasurableAffordance	IngredientManner	cutting_board	Placing	Apply_heat	butter
+C1.3	Placing	maffine	maffin_pan	IngredientManner	GrainProduct	Apply_heat	ActionManner	OfenInstrument
+C1.4	whisk	Peel	MixedLiquid	egg	egg_yolk	sugar	IngredientManner	butter	salt	Apply_heat	ActionManner	MixableAffordance
+C1.5	Removing	Apply_heat	Placing
+C1.6	Add	GrainProduct	cup	SemiHartDairy	ActionManner	sugar	PlaceChangeAction
+R2
+C2.1	Cutting	butter	pieces	Add	mixer	flour	egg	egg_yolk	salt	sugar	Beat_opponent	ActionManner	water	Action	MeasurableAffordance	StateChangeAction	GrainProduct	IngredientManner	NonChangeAction	WeightMass_motion	HeatableAffordance	Placing
+C2.2	Preheating	OfenInstrument	Cutting	GrainProduct	chunks	flour	cutting_board	Placing	IngredientManner	Reshaping	MeasurableAffordance	Use	rolling_pin	Recipe
+C2.3	flour	IngredientManner	GrainProduct	WeightMass_motion	Recipe	ContainerInstrument	Press	Removing	Placing	pieces	BackableAffordance	Add	WeightMeasuringInstrument	OfenInstrument	Apply_heat
+C2.4	Peel	apple_corer	IngredientManner	Fruit	Cutting
+C2.5	bowl	Cause_to_amalgamate	Fruit	MixedLiquid	Ingredient	flour
+C2.6	WeightMass_motion	Fruit	slices	Recipe	ContainerInstrument	Placing	Cutting	IngredientManner	butter	pieces	GrainProduct	Affordance	BackableAffordance	Cause_to_amalgamate	egg	water	MixingInstrument	OfenInstrument	Apply_heat	ActionManner
+R3
+C3.1	Affordance	Recipe	BakedGoods	Cause_to_amalgamate	flour	sugar	salt	Add	butter	Use	Agent	Instrument	chunks	Shapes	Ingredient	AmountChangeAction	water	MeasurableAffordance	StateChangeAction	GrainProduct
+C3.2	AmountChangeAction	GrainProduct	cutting_board	Press	ContainerInstrument	half	Shapes	NonChangeAction	Cause_temperature_change
+C3.3	Add	Cause_to_amalgamate	IngredientManner	sugar	Peel	bowl	corn	salt	whisk	Fruit	WeightMass_motion	Use	AmountChangeAction	MixedLiquid	Cause_temperature_change
+C3.4	Preheating	OfenInstrument	Action	Recipe	ContainerInstrument	Placing	GrainProduct	HeatableAffordance	Cause_temperature_change	ActionManner	cutting_board	Reshaping	chunks	WeightMass_motion	NonChangeAction	Adorning	Fruit	Add
+C3.5	Reshaping	GrainProduct	Shapes	chunks	IngredientManner	Cutting	strips	Use	Fruit
+C3.6	Removing	GrainProduct	Part	NonChangeAction	IngredientManner	Placing	Reshaping	Shapes	BakedGoods	Press	BackableAffordance	Beat_opponent	egg	MixingInstrument	sugar	Apply_heat	Recipe	ActionManner	Add	WeightMass_motion	PlaceChangeAction
+R4
+C4.1	Preheating	OfenInstrument	Use	Instrument	Cause_to_amalgamate	egg	egg_white	Shapes
+C4.2	Action	sugar	Nut	FilteringInstrument	IngredientManner	egg
+C4.3	sugar	Nut	Ingredient	egg
+C4.4	Add	Instrument	Ingredient	Placing	Apply_heat	IngredientManner	BackingInstrument	Press	Removing	BackableAffordance	WeightMass_motion	mixer	ActionManner
+C4.5	Cutting	butter	pieces	chocolate	WeightMass_motion	bowl	Apply_heat	MixedLiquid	CookingContainer	ActionManner	Add	coffee	Cause_to_amalgamate	AmountChangeAction	MixableAffordance	cream	Instrument
+C4.6	Placing	coffee	cream	half	Ingredient	Press	Action	ActionManner
+R5
+C5.1	Beat_opponent	egg	egg_yolk	sugar
+C5.2	Cause_to_amalgamate	cream	corn	egg	egg_yolk	slices	Cutting	Bean
+C5.3	Add	IngredientManner	cream	milk	Bean	Ingredient	Peel	CookingContainer	Apply_heat	Part	Cause_temperature_change
+C5.4	Add	MeasurableAffordance	Bean	cream	egg	egg_yolk	Ingredient	WeightMass_motion	IngredientManner
+C5.5	Cause_temperature_change	Ingredient	Apply_heat	whisk	Reshaping	WeightMass_motion	bowl	Placing	Preheating	OfenInstrument	butter	maffine
+C5.6	Reshaping	BakedGoods	Action	BackableAffordance	Shapes	Cutting	pieces	Placing	slices	Add	maffine	cup	Press	IngredientManner	Cause_temperature_change
+C5.7	AmountChangeAction	Bean	cream	maffine	cup	Apply_heat	OfenInstrument	ActionManner	Cake	sugar
+R6
+C6.1	Placing	okra	Cause_temperature_change	Instrument	BackableAffordance	Beat_opponent
+C6.2	bowl	Cause_to_amalgamate	cream	cheese	milk	IngredientManner	sugar	MixedLiquid
+C6.3	Part	Fruit	Placing	Cutting	LeafyVegetable	IngredientManner
+C6.4	Use	Agent	MixingInstrument	Cause_to_amalgamate	IngredientManner	strawberry	sugar	MixedLiquid	ActionManner	bowl	Add	LeafyVegetable	MixableAffordance
+C6.5	bowl	okra	pieces	StateChangeAction	Placing	Cake	cream	cheese	Ingredient	strawberry	Cause_to_amalgamate	chunks	Adorning	Fruit	Part	HeatableAffordance	ActionManner	IngredientManner
+R7
+C7.1	Cause_to_amalgamate	Ingredient	GrainProduct	IngredientManner	water	bowl	Placing
+C7.2	Add	flour	sugar	Ingredient	Apply_heat	butter	mixer	Press
+C7.3	NonChangeAction	GrainProduct	WeightMass_motion	HeatableAffordance	IngredientManner
+C7.4	Preheating	OfenInstrument	flour	cutting_board	Reshaping	GrainProduct	Agent	Use	Instrument	ActionManner	Cutting	Shapes	IngredientManner	WeightMass_motion	Apply_heat	pieces	Cause_temperature_change
+C7.5	Cause_to_amalgamate	sugar	water	Shapes	MixedLiquid	pieces	Cause_temperature_change	Adorning	Use	Instrument
+C7.6	Apply_heat	sugar	water	CookingContainer	Action	ActionManner	Shapes	PlaceChangeAction	pieces	EattingContainer	Use
+C7.7	Cutting	GrainProduct	Placing	Affordance	Instrument
+R8
+C8.1	Preheating	OfenInstrument	egg	egg_yolk	egg_white	mixer	bowl	Beat_opponent	sugar	ActionManner	Shapes
+C8.2	Beat_opponent	butter	egg	egg_yolk	sugar
+C8.3	Action	flour	Cause_to_amalgamate	bowl	egg	Ingredient	butter	Part	half	Add	Nut
+C8.4	Action	flour	bundt_pan	maffin_pan	spoon	IngredientManner	GrainProduct	ActionManner	Placing	Apply_heat	OfenInstrument	Removing	Cause_temperature_change
+C8.5	Cake	Cause_temperature_change	Apply_heat	butter	chocolate	Ingredient	CookingContainer	ActionManner	MixableAffordance
+C8.6	spoon	chocolate	Ingredient	Part	Placing
+R9
+C9.1	WeightMass_motion	Ingredient	Preheating	OfenInstrument	HeatableAffordance	Action	maffine	maffin_pan	Add	flour	Use
+C9.2	Action	flour	Apply_heat	Ingredient	bowl	Add	IngredientManner	Peel	Fruit	small_pieces	sugar	butter	egg	milk	Cause_to_amalgamate	Use	spoon
+C9.3	Add	maffine	maffin_pan	Apply_heat	ActionManner	HeatableAffordance	Cake	Removing	OfenInstrument	Placing	Cause_temperature_change	WeightMass_motion
+C9.4	Ingredient	Cause_to_amalgamate	IngredientManner	Fruit	small_pieces	sugar	Add	Peel	MixedLiquid	Use	knife
+R10
+C10.1	Preheating	OfenInstrument	Action	maffin_pan	Apply_heat	butter	CookingContainer	Placing	Cause_temperature_change	Fruit	Removing	Nut	knife	Cutting
+C10.2	Cause_to_amalgamate	bowl	Beat_opponent	egg	sugar	salt	whisk	Add	milk	flour	Apply_heat	butter
+C10.3	AmountChangeAction	Ingredient	maffin_pan	Placing	Fruit	half	IngredientManner	Cutting	Bean	sugar
+C10.4	Apply_heat	ActionManner	IngredientManner	Cause_temperature_change	Add	sugar	PlaceChangeAction
