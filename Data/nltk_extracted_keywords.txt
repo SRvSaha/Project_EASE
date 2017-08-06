@@ -1,0 +1,64 @@
+R1	6
+I1.1	Preheat	egg	yolks	whites	stand	mixer	bowl	beat	sugar	approx	min.	peaks	form
+I1.2	Beat	butter	egg	yolks	confectioner	’	s	sugar	approx	min
+I1.3	Sift	flour	mix	combine	bowl	egg	mixture	butter	batter	halves	add	powder
+I1.4	Grease	bundt	pan	Spoon	light	doughs	alternating	layers	Bake	oven	approx	min	Remove	let	cool	turn	rack
+I1.5	cake	has	cooled	melt	chocolate	glaze	saucepan	heat	approx	min	Stir	everything	melted
+I1.6	Spoon	chocolate	glaze	leave	set	Enjoy
+R2	6
+I2.1	make	pie	crust	mix	flour	sugar	salt	Add	butter	use	fingers	food	processor	combine	clumps	form	Make	well	center	mixture	pour	water	time	using	Continue	has	absorbed	dough	formed	seems	add	tablespoon
+I2.2	Scrape	dough	floured	work	surface	press	disc	halve	form	half	Wrap	plastic	wrap	refrigerate	hour
+I2.3	filling	combine	remaining	sugar	zest	bowl	Add	cornstarch	salt	whisk	combined	add	cherries	toss	coat	using	be	drain	juice	thawing	combining	ingredients
+I2.4	Preheat	grease	dish	Take	refrigerator	let	warm	minutes	floured	work	surface	roll	disc	thick	round	Transfer	pie	letting	hang	edge	distribute	cherry	filling	top
+I2.5	Roll	dough	disk	round	thickness	cut	strips	Use	form	lattice	pattern	cherry	filling
+I2.6	Trim	dough	leaving	0.5-in./1.33-cm	hanging	sides	Lift	fold	edge	form	crust	crimp	press	seal	Beat	egg	brush	top	lattice	Sprinkle	demerara	sugar	Bake	pie	approx	hour	is	brown	filling	bubbling	Let	serving	Enjoy
+R3	4
+I3.1	Weigh	ingredients	Preheat	oven	fan	/350°F	Grease	muffin	tin	dust	flour	use	liners
+I3.2	Sift	flour	baking	powder	bowl	Add	part	zest	coconut	flakes	sugar	butter	eggs	milk	using	spoon	batter	is
+I3.3	Fill	level	muffin	tin	liners	Bake	approx	min	fan	/350°F	cupcakes	are	done	Remove	oven	set	cool	min.	transfer	cooling	rack
+I3.4	glaze	mix	remaining	coconut	flakes	confectioner	’	s	sugar	Add	part	lemon	zest	juice	be	Using	knife	top	cupcakes
+R4	6
+I4.1	Preheat	egg	yolks	whites	stand	mixer	bowl	beat	sugar	approx	min.	peaks	form
+I4.2	Beat	butter	egg	yolks	confectioner	’	s	sugar	approx	min
+I4.3	Sift	flour	mix	combine	bowl	egg	mixture	butter	batter	halves	add	powder
+I4.4	Grease	bundt	pan	Spoon	light	doughs	alternating	layers	Bake	oven	approx	min	Remove	let	cool	turn	rack
+I4.5	cake	has	cooled	melt	chocolate	glaze	saucepan	heat	approx	min	Stir	everything	melted
+I4.6	Spoon	chocolate	glaze	leave	set	Enjoy
+R5	6
+I5.1	make	pie	crust	mix	flour	sugar	salt	Add	butter	use	fingers	food	processor	combine	clumps	form	Make	well	center	mixture	pour	water	time	using	Continue	has	absorbed	dough	formed	seems	add	tablespoon
+I5.2	Scrape	dough	floured	work	surface	press	disc	halve	form	half	Wrap	plastic	wrap	refrigerate	hour
+I5.3	filling	combine	remaining	sugar	zest	bowl	Add	cornstarch	salt	whisk	combined	add	cherries	toss	coat	using	be	drain	juice	thawing	combining	ingredients
+I5.4	Preheat	grease	dish	Take	refrigerator	let	warm	minutes	floured	work	surface	roll	disc	thick	round	Transfer	pie	letting	hang	edge	distribute	cherry	filling	top
+I5.5	Roll	dough	disk	round	thickness	cut	strips	Use	form	lattice	pattern	cherry	filling
+I5.6	Trim	dough	leaving	0.5-in./1.33-cm	hanging	sides	Lift	fold	edge	form	crust	crimp	press	seal	Beat	egg	brush	top	lattice	Sprinkle	demerara	sugar	Bake	pie	approx	hour	is	brown	filling	bubbling	Let	serving	Enjoy
+R6	4
+I6.1	Weigh	ingredients	Preheat	oven	fan	/350°F	Grease	muffin	tin	dust	flour	use	liners
+I6.2	Sift	flour	baking	powder	bowl	Add	part	zest	coconut	flakes	sugar	butter	eggs	milk	using	spoon	batter	is
+I6.3	Fill	level	muffin	tin	liners	Bake	approx	min	fan	/350°F	cupcakes	are	done	Remove	oven	set	cool	min.	transfer	cooling	rack
+I6.4	glaze	mix	remaining	coconut	flakes	confectioner	’	s	sugar	Add	part	lemon	zest	juice	be	Using	knife	top	cupcakes
+R7	5
+I7.1	Place	ladyfingers	freezer	bag	crush	rolling	pin
+I7.2	bowl	mix	cream	cheese	buttermilk	three-quarters	confectioner	’	s	sugar	juice	Stir
+I7.3	Leave	blueberries	set	Roughly	chop	mint	Quarter	strawberries
+I7.4	Using	hand	blender	blend	quarter	strawberries	remainder	sugar	juice	pureed	bowl	add	quartered	mint	Stir	combine
+I7.5	Line	bottom	bowl	ladyfinger	pieces	continue	layer	cake	follows	cream	cheese	mixture	puree	crumbs	strawberry	garnish	trifle	blueberries	Leave	refrigerator	h	rest	serving
+R8	7
+I8.1	egg	yolks	sugar
+I8.2	Mix	cream	cornstarch	combined	combine	egg	yolks	Slice	open	vanilla	bean	knife
+I8.3	remaining	cream	milk	bean	seeds	orange	zest	saucepan	Bring	boil	heat	leave	cool	approx	min
+I8.4	Add	amount	vanilla	cream	egg	yolk	mixture	whisking	add	rest	Transfer	saucepan
+I8.5	Reheat	mixture	heat	whisking	thickens	Transfer	bowl	cover	plastic	set	cool	Preheat	/	Butter	muffin	cups
+I8.6	puff	pastry	discard	paper	Roll	log	cut	pieces	Place	slices	roll	circles	fill	muffin	cups	circle	cup	pressing	middle	sides	Refrigerate	approx	min
+I8.7	Pour	vanilla	cream	cup	rim	Bake	rack	oven	/46°F	approx	min	cakes	are	brown	caramelized	Enjoy
+R9	6
+I9.1	Preheat	Using	food	processor	blend	egg	whites	peaks	form
+I9.2	Sift	confectioner	’	s	sugar	almonds	sieve	top	egg	whites
+I9.3	sugar	almond	mixture	egg	whites
+I9.4	Fill	piping	bag	macaron	mixture	Pipe	sheet	lined	baking	mat	Tap	kitchen	counter	release	air	bubbles	Let	stand	room	temperature	approx	min	bake	oven
+I9.5	Cut	butter	pieces	chocolate	transfer	bowl	heat	Baileys	saucepan	medium	approx	min	Add	espresso	mix	dissolved	Pour	melt	is	melted	add	piece	stir	combined	Fill	cream	piping	bag
+I9.6	Pipe	coffee	buttercream	half	macaron	Place	press	Repeat	macarons	are	assembled	Enjoy	cup
+R10	4
+I10.1	Preheat	grease	tart	pan	Melt	butter	pot	heat	set	cool	Wash	apricots	remove	pit	knife	cut	halves
+I10.2	mixing	bowl	beat	eggs	mix	sugar	salt	whisk	Add	milk	flour	melted	butter	combined
+I10.3	Pour	batter	pan	spread	apricot	halves	cut	side-up	Sprinkle	vanilla	sugar	almonds
+I10.4	Bake	rack	approx	min.	top	Let	cool	dust	sugar	serving	Enjoy
