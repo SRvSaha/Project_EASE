@@ -8,6 +8,8 @@
 """
 Script to count unique keywords for Word2Concept file and to generate the set
 of unique words in test data <10 Recipes>
+
+INPUT: Stanford Lemmatized POS Tag file
 """
 
 import sys
