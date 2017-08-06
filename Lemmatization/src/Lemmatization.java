@@ -12,6 +12,7 @@ import java.io.BufferedWriter;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.LinkedHashSet;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Properties;
@@ -52,9 +53,9 @@ public class Lemmatization {
         this.pipeline = new StanfordCoreNLP(props);
     }
 
-    public List<String> lemmatize(String documentText)
+    public LinkedHashSet<String> lemmatize(String documentText)
     {
-        List<String> lemmas = new LinkedList<String>();
+        LinkedHashSet<String> lemmas = new LinkedHashSet<String>();
         // Create an empty Annotation just with the given text
         Annotation document = new Annotation(documentText);
         // run all Annotators on this text
