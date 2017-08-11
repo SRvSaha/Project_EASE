@@ -26,7 +26,7 @@ public class POSTagging {
 				recipes = line.split("\t");
 				if (recipes.length == 3)
 				{	
-					output = recipes[0]+"\n";
+					output = recipes[0]+"\t"+recipes[2]+"\n";
 					bw.write(output);
 					int len = Integer.parseInt(recipes[2]);
 					while(len > 0)
