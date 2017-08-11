@@ -1,32 +1,32 @@
-R1
+R1	6
 I1.1	preheat	oven	zest	fifth	lemon	squeeze	juice	amount	match	sugar
 I1.2	cut	dough	cm	square	surface	place	top	melt	butter	brush
 I1.3	layer	muffin	pan	sheet	dough	bake	min	oven	set	cool
 I1.4	meantime	whisk	zest	juice	egg	yolk	sugar	remain	butter	pinch	salt	heat	medium	stir	thicken
 I1.5	remove	heat	strain	sieve
 I1.6	fill	dough	cup	curd	let	min	confectioner	sugar	serve	taste	cool
-R2
+R2	6
 I2.1	cut	butter	piece	add	stand	mixer	flour	egg	yolk	salt	sugar	beat	min	water	reserve	amount	step	continue	dough	be	consistency	wrap	transfer	refrigerator	allow	set	h.
 I2.2	preheat	oven	cut	dough	round	flour	work	surface	place	top	roll	time	use	pin	be	pie	dish
 I2.3	flour	side	dough	transfer	pie	dish	press	edge	remove	place	piece	parchment	paper	top	fill	weight	oven	bake	min
 I2.4	peel	core	quarter	apple	cut	piece
 I2.5	bowl	mix	apple	juice	cinnamon	nutmeg	flour	sugar
 I2.6	transfer	apple	slice	pie	dish	spread	cut	remainder	butter	piece	place	top	cover	rest	dough	make	hole	middle	air	escape	mix	egg	water	brush	return	oven	bake	min	enjoy
-R3
+R3	6
 I3.1	make	pie	crust	mix	flour	sugar	salt	add	butter	use	finger	food	processor	combine	clump	form	center	mixture	pour	water	time	continue	have	absorb	dough	seem	tablespoon
 I3.2	scrape	dough	work	surface	press	disc	halve	form	half	wrap	refrigerate	hour
 I3.3	fill	combine	remain	sugar	zest	bowl	add	cornstarch	salt	whisk	cherry	toss	coat	use	be	drain	juice	thaw	ingredient
 I3.4	preheat	oven	grease	pie	dish	9-inch/23-cm	take	dough	refrigerator	let	warm	minute	work	surface	roll	disc	0.25-in	round	transfer	hang	edge	distribute	cherry	fill	top
 I3.5	roll	dough	disk	round	thickness	cut	strip	use	form	lattice	pattern	cherry	fill
 I3.6	trim	bottom	dough	leave	1.33-cm	hanging	side	lift	fold	edge	form	crust	crimp	press	seal	beat	egg	brush	top	lattice	demerara	sugar	bake	pie	hour	be	fill	bubble	let	serve	enjoy
-R4
+R4	6
 I4.1	preheat	oven	use	food	processor	blend	egg	whites	peak	form
 I4.2	sift	confectioner	sugar	almond	sieve	top	egg	whites
 I4.3	sugar	almond	mixture	egg	whites
 I4.4	fill	piping	bag	macaron	mixture	pipe	bake	sheet	line	mat	tap	kitchen	counter	release	air	bubble	let	stand	room	temperature	min	oven
 I4.5	cut	butter	piece	chop	chocolate	transfer	bowl	heat	bailey	saucepan	medium	min	add	espresso	mix	dissolve	pour	melt	be	stir	combined	fill	cream	piping	bag
 I4.6	pipe	coffee	buttercream	half	macaron	place	press	repeat	be	assemble	enjoy	cup
-R5
+R5	7
 I5.1	beat	egg	yolk	sugar	light
 I5.2	mix	cream	cornstarch	combine	egg	yolk	slice	open	vanilla	bean	knife
 I5.3	add	remain	cream	milk	vanilla	bean	seed	zest	saucepan	bring	boil	heat	leave	cool	min
@@ -34,13 +34,13 @@ I5.4	add	amount	vanilla	cream	egg	yolk	mixture	whisking	rest	transfer	saucepan
 I5.5	reheat	mixture	heat	whisk	thicken	transfer	bowl	cover	plastic	set	cool	preheat	oven	butter	muffin	cup
 I5.6	unroll	puff	pastry	discard	paper	roll	log	cut	piece	place	slice	circle	fill	muffin	cup	press	side	refrigerate	min
 I5.7	pour	vanilla	cream	muffin	cup	rim	bake	rack	oven	min	cake	be	caramelize	enjoy
-R6
+R6	5
 I6.1	place	ladyfinger	freezer	bag	seal	crush	pin
 I6.2	bowl	mix	cream	cheese	buttermilk	three-quarter	confectioner	sugar	juice	stir
 I6.3	leave	blueberry	set	chop	mint	quarter	strawberry
 I6.4	use	hand	blender	blend	quarter	strawberry	remainder	sugar	juice	pureed	bowl	add	puree	mint	stir	combine
 I6.5	line	bottom	bowl	ladyfinger	piece	continue	layer	cake	follow	cream	cheese	mixture	strawberry	puree	crumb	garnish	blueberry	leave	refrigerator	h	rest	serve
-R7
+R7	7
 I7.1	mix	ground	flaxseed	part	water	bowl	set	min
 I7.2	meantime	add	flour	demerara	sugar	spice	bake	soda	margarine	molass	stand	mixer	knead	form
 I7.3	wrap	dough	transfer	refrigerator	let	rest	h.
@@ -48,19 +48,19 @@ I7.4	preheat	oven	flour	work	surface	roll	dough	finger	use	stencil	find	step	cut
 I7.5	mix	confectioner	sugar	water	form	icing	piece	have	cool	decorate	use	piping	bag	desire	sprinkle	decoration	set
 I7.6	melt	sugar	water	saucepan	cook	medium	heat	caramel	form	dip	bottom	house	piece	stick	serve	plate	use	edge	attach	christmas	tree	man
 I7.7	gingerbread	house	cut	template	dough	take	measurement	make	stencil	enjoy
-R8
+R8	6
 I8.1	preheat	oven	egg	yolk	whites	stand	mixer	bowl	beat	sugar	min	.	peak	form
 I8.2	beat	butter	egg	yolk	confectioner	sugar	min
 I8.3	sift	flour	mix	combine	bowl	egg	mixture	butter	divide	batter	half	add	cocoa	powder
 I8.4	grease	flour	bundt	pan	spoon	light	dough	alternate	layer	bake	oven	min	remove	let	turn	cool	rack
 I8.5	cake	have	cool	melt	butter	chocolate	glaze	saucepan	heat	min	stir	everything
 I8.6	spoon	chocolate	glaze	leave	set	enjoy
-R9
+R9	4
 I9.1	weigh	ingredient	preheat	oven	fan	grease	muffin	tin	dust	flour	use	liner
 I9.2	sift	flour	bake	powder	bowl	add	part	zest	coconut	flake	sugar	butter	egg	milk	mix	use	spoon	batter	be
 I9.3	fill	level	muffin	tin	liner	bake	min	fan	cupcake	be	do	remove	oven	set	cool	.	transfer	cooling	rack
 I9.4	glaze	mix	remain	coconut	flake	confectioner	sugar	add	part	zest	juice	be	use	knife	cupcake
-R10
+R10	4
 I10.1	preheat	oven	grease	pan	melt	butter	pot	heat	set	cool	wash	apricot	remove	pit	knife	cut	half
 I10.2	mix	bowl	beat	egg	sugar	salt	whisk	add	milk	flour	melt	butter	combine
 I10.3	pour	batter	pan	spread	apricot	half	top	cut	side-up	vanilla	sugar	almond
