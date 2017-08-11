@@ -72,11 +72,13 @@ if len(argv) >= 2:
                             int(concept_num[concept_num.rfind(".") + 1:]) - INDEX[concept])
                         INDEX[concept] = int(
                             concept_num[concept_num.rfind(".") + 1:])
-                        # print(CONCEPT_SET[concept][1], int(
-                        #     concept_num[concept_num.rfind(".") + 1:]), abs(
-                        #     CONCEPT_SET[concept][1] - int(concept_num[concept_num.rfind(".") + 1:])))
-                        CONCEPT_SET[concept][2] = list(
-                            set().union(CONCEPT_SET[concept][2], concepts))
+                        # This is faster but the order is not maintained
+                        # CONCEPT_SET[concept][2] = list(
+                        #     set().union(CONCEPT_SET[concept][2], concepts))
+
+                        # Used for maintaining the order of the co-occuring concepts from start till current
+                        CONCEPT_SET[concept][2] += [
+                            item for item in concepts if item not in CONCEPT_SET[concept][2]]
                     if i != len(concepts) - 1:
                         if CONCEPT_SET[concept][0] != 0:
                             output += '"' + concept + '" : "' + \
