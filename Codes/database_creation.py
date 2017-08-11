@@ -15,7 +15,7 @@ Format of Database:
     'R1' :  {
                 'C1.1'  :   {'Preheating':[#Occurance, #DiscourseDistance, #Co-occurance_Set], 'Action':[#Occurance, #DiscourseDistance, #Co-occurance_Set], .....},
                 'C1.2'  :   {'sugar': [], 'Add':[],.....    }
-                
+
             },
     'R2' :  {
                 'C2.1'  :   { }
@@ -41,11 +41,40 @@ filename = '../Data/database.json'
 DATABASE = OrderedDict()
 CONCEPT_SET = OrderedDict()
 
+output = '{'
 if len(argv) >= 2:
     with open(argv[1]) as f:
-        for line in f.readlines():
+        for line_num, line in enumerate(f):
+            if line.startswith("R"):
+                splitted_recipe = line.split("\t")
+                len_instruction = int(splitted_recipe[1].strip())
+                if line_num == 0:
+                    output += '"' + splitted_recipe[0] + '" : {'
+                else:
+                    output += '},"' + splitted_recipe[0] + '" : {'
 
+            elif line.startswith("C"):
+                splitted_line = line.split("\t")
+                concept_num = splitted_line[0]
+                concepts = splitted_line[1:]
+                output += '"' + concept_num + '" : {'
+                for i, concept in enumerate(concepts):
+                    if i != len(concepts) - 1:
+                        CONCEPT_SET[concept.strip()] = True
+                        output += '"' + concept + \
+                            '" : "[#O, #Dd, [CONCEPTS]]",'
+                    else:
+                        if len_instruction != int(concept_num[concept_num.rfind(".") + 1:]):
+                            output += '"' + concept.strip() + \
+                                '" : "[#O, #Dd, [CONCEPTS]]" },'
+                        else:
+                            output += '"' + concept.strip() + \
+                                '" : "[#O, #Dd, [CONCEPTS]]" }'
 
+    output += '}}'
+    with open(filename, 'w') as f:
+        json.dump(json.loads(output, object_pairs_hook=OrderedDict),
+                  f, indent=4)
 else:
     print("Argument(s) Missing!\nPlease run as: python3 database_creation.py <CONCEPT_SET_FILE>")
     exit()
